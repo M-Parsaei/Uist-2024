@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Md6q778rHHpblz5UJ6A8DGWGYX/6Y9OghamBlXqVl+ba02WPDEmQaihL2lpLjHOu6QMboo/QyeCYGHSzE9yHXA==",
+  "success": true,
+  "projectFilePath": "C:\\Uist2024\\example_code\\GHDemo\\GHDemo\\GHDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canad\\.nuget\\packages\\grasshopper\\6.35.21222.17001\\grasshopper.6.35.21222.17001.nupkg.sha512",
+    "C:\\Users\\canad\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\canad\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\canad\\.nuget\\packages\\rhinocommon\\6.35.21222.17001\\rhinocommon.6.35.21222.17001.nupkg.sha512"
+  ],
+  "logs": []
+}
