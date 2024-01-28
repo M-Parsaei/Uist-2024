@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Uist2024\\GHDemo\\GHDemo\\GHDemo.csproj": {}
+    "C:\\Uist-2024\\GHDemo\\GHDemo\\GHDemo.csproj": {}
   },
   "projects": {
-    "C:\\Uist2024\\GHDemo\\GHDemo\\GHDemo.csproj": {
+    "C:\\Uist-2024\\GHDemo\\GHDemo\\GHDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Uist2024\\GHDemo\\GHDemo\\GHDemo.csproj",
+        "projectUniqueName": "C:\\Uist-2024\\GHDemo\\GHDemo\\GHDemo.csproj",
         "projectName": "GHDemo",
-        "projectPath": "C:\\Uist2024\\GHDemo\\GHDemo\\GHDemo.csproj",
+        "projectPath": "C:\\Uist-2024\\GHDemo\\GHDemo\\GHDemo.csproj",
         "packagesPath": "C:\\Users\\canad\\.nuget\\packages\\",
-        "outputPath": "C:\\Uist2024\\GHDemo\\GHDemo\\obj\\",
+        "outputPath": "C:\\Uist-2024\\GHDemo\\GHDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\canad\\AppData\\Roaming\\NuGet\\NuGet.Config",

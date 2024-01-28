@@ -7,3 +7,13 @@ C:\Uist2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.AssemblyInfo.cs
 C:\Uist2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.csproj.CoreCompileInputs.cache
 C:\Uist2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.gha
 C:\Uist2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.pdb
+C:\Uist-2024\GHDemo\GHDemo\bin\Debug\net48\GHDemo.gha
+C:\Uist-2024\GHDemo\GHDemo\bin\Debug\net48\GHDemo.pdb
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.csproj.AssemblyReference.cache
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.AssemblyInfoInputs.cache
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.AssemblyInfo.cs
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.csproj.CoreCompileInputs.cache
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.sourcelink.json
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.gha
+C:\Uist-2024\GHDemo\GHDemo\obj\Debug\net48\GHDemo.pdb

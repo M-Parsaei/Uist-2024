@@ -1,9 +1,0 @@
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\bin\Debug\net45\GHDemo.gha
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\bin\Debug\net45\GHDemo.pdb
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.csproj.AssemblyReference.cache
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.AssemblyInfoInputs.cache
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.AssemblyInfo.cs
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.csproj.CoreCompileInputs.cache
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.gha
-C:\Users\he731\OneDrive - purdue.edu\Documents\Test\GHDemo\GHDemo\obj\Debug\net45\GHDemo.pdb
